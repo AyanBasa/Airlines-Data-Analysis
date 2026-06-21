@@ -45,7 +45,7 @@ The objective of this project is to clean and transform the raw airline data int
 
    EDA included:
 1. Average arrival delay by weather condition
-<img width="724" height="431" alt="Image" src="https://github.com/user-attachments/assets/c379b660-702c-470a-a593-013874132cde" />
+![opins](avg_arr_delay_by_weather_condition.png)
    
 2. Correlation between flight distance and ticket price
 <img width="707" height="428" alt="Image" src="https://github.com/user-attachments/assets/9a826f24-4c37-4a66-956c-a1d212421cce" />
