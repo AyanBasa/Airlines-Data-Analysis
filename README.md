@@ -48,10 +48,10 @@ The objective of this project is to clean and transform the raw airline data int
 ![opins](avg_arr_delay_by_weather_condition.png)
    
 2. Correlation between flight distance and ticket price
-<img width="707" height="428" alt="Image" src="https://github.com/user-attachments/assets/9a826f24-4c37-4a66-956c-a1d212421cce" />
+![opins](correlation_between_flight_distance_and_ticket_price.png)
    
 3. Average revenue by month
-<img width="697" height="420" alt="Image" src="https://github.com/user-attachments/assets/aa42374c-bc09-4230-9e40-84a0639618e0" />
+![opins](avg_revenue_by_month.png)
    
 - Step 5 : Exported the cleaned datasets and imported them into Microsoft SQL Server Management Studio (SSMS). 
 - Step 6 : Performed SQL analysis to answer business questions using:
@@ -127,7 +127,7 @@ Some of the SQL analyses included:
   4. Carlos Williams is the highest spending passenger (768.78K).
 
   
-  <img width="1466" height="822" alt="Image" src="https://github.com/user-attachments/assets/34352bc5-bd59-465a-bfc2-1d2e1d947561" />
+  ![opins](executive_overview.png)
 
 ### [2] Operations Insights
   1. Stormy weather caused highest delays (49 mins).
@@ -135,7 +135,7 @@ Some of the SQL analyses included:
   3. Most flights were slightly delayed this year (45.74%) among the flights which were running, although it generated highest revenue (5.2 billion).
   4. 72.78% flights were running, 24.37% flights got delays and 2.85% flights got cancelled.
 
-<img width="1411" height="796" alt="Image" src="https://github.com/user-attachments/assets/5a08537d-a14f-49c9-9ab9-b6cf5e836f23" />
+![opins](operations_insights.png)
 
 ### [3] Customer Insights
   1. Most passengers preferred travelling to London (11.08k).
@@ -144,5 +144,5 @@ Some of the SQL analyses included:
   4. Adults passengers travelled the most (104k).
   5. Medium value passengers generated highest revenue (10.35 billion).
 
-  <img width="1411" height="798" alt="Image" src="https://github.com/user-attachments/assets/42906a6e-40eb-4899-b40d-dc915a945e29" />
+  ![opins](customer_insights.png)
   
